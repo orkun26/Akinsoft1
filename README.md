@@ -1,5 +1,5 @@
 # Akinsoft1
-Mülakat için oluşturulmuştur. 4 adet soru içermektedir. 
+Mülakat için oluşturulmuştur. 4 adet soru içermektedir.  RAR olarak her proje ayrı ayrı paylaşılmıştır. 
 
 1) Pointer sorusu
 2) Şifreleme sorusu
