@@ -1,6 +1,9 @@
 # Akinsoft1
 Mülakat için oluşturulmuştur. 4 adet soru içermektedir.  RAR olarak her proje ayrı ayrı paylaşılmıştır. 
 
+Videolu anlatım aşağıdadır.
+https://www.youtube.com/watch?v=knxUXUWsp_o
+
 1) Pointer sorusu
 2) Şifreleme sorusu
 3) Robot ada hedef konum sorusu
